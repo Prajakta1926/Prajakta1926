@@ -8,7 +8,7 @@
 - 🎓 CCOEW, Pune (2023-2027)
 - 🌱 Currently exploring React, Node.js,Express.js and open-source projects  
 - 💡 Passionate about building user-centric web applications and solving real-world problems. 
-- 💼 Check out my portfolio → [prajakta-portfolio.netlify.app](https://your-portfolio-link.netlify.app)
+- 💼 Check out my portfolio → [https://prajaktadeshpandeportfolio.netlify.app/](https://prajaktadeshpandeportfolio.netlify.app/)
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Fisherman's Compass](https://fishermancompass.netlify.app/)** – Helps fishermen locate fish-rich zones using Geolocation API  
 - **[Santulya](https://santulya.netlify.app/)** – Health awareness portal for adolescent girls facing PCOD/PCOS  
 - **[ToDos List](https://your-todo-link.netlify.app/)** – React-based task manager with localStorage support  
-- More on my [portfolio →](https://your-portfolio-link.netlify.app)
+- More on my [portfolio →](https://prajaktadeshpandeportfolio.netlify.app/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 - 📧 prajaktadeshpande0014@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🌐 [Portfolio](https://your-portfolio-link.netlify.app)
+- 🌐 [Portfolio](https://prajaktadeshpandeportfolio.netlify.app/)
 
 ---
 
