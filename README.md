@@ -5,8 +5,8 @@
 
 ### 💫 About Me
 
-- 🎓 CCOEW, Pune (2023-2027)
-- 🌱 Currently exploring React, Node.js,Express.js and open-source projects  
+- 🎓 CCOEW, Pune (2023–2027)
+- 🌱 Currently exploring React, Node.js, Express.js, and open-source projects  
 - 💡 Passionate about building user-centric web applications and solving real-world problems. 
 - 💼 Check out my portfolio → [https://prajaktadeshpandeportfolio.netlify.app/](https://prajaktadeshpandeportfolio.netlify.app/)
 
@@ -15,8 +15,7 @@
 ### 🚀 Projects
 
 - **[Fisherman's Compass](https://fishermancompass.netlify.app/)** – Helps fishermen locate fish-rich zones using Geolocation API  
-- **[Santulya](https://santulya.netlify.app/)** – Health awareness portal for adolescent girls facing PCOD/PCOS  
-- **[ToDos List](https://your-todo-link.netlify.app/)** – React-based task manager with localStorage support  
+- **[Santulya](https://santulya.netlify.app/)** – Health awareness portal for adolescent girls facing PCOD/PCOS   
 - More on my [portfolio →](https://prajaktadeshpandeportfolio.netlify.app/)
 
 ---
@@ -28,6 +27,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
@@ -35,12 +37,13 @@
 
 ### 📫 Connect with Me
 
-- 📧 prajaktadeshpande0014@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📧 prajaktadeshpande0014@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
 - 🌐 [Portfolio](https://prajaktadeshpandeportfolio.netlify.app/)
 
 ---
 
 ### ⚡ Fun Fact
 
-> I love translating real-world problems into clean, functional user interfaces. Currently on the lookout for internship opportunities where I can grow and contribute 🚀
+> I love translating real-world problems into clean, functional user interfaces.  
+> Currently on the lookout for internship opportunities where I can grow and contribute 🚀
